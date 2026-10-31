@@ -22,7 +22,7 @@ Les données de cette préversion sont conservées dans `%LOCALAPPDATA%\LightHub
 
 ## État de la préversion
 
-L’installateur a été compilé, mais son installation complète n’a pas encore été validée. Il n’est pas signé numériquement. L’import, le rendu et l’export ont fait l’objet de vérifications ciblées ; cette préversion n’est pas une version stable.
+Installation, réinstallation silencieuses et désinstallation ont été validées sur un package de contrôle isolé utilisant les mêmes fichiers du programme. Le build reste non signé. Le binaire signé définitif devra être vérifié dans un environnement Windows propre avant soumission au Microsoft Store. Consultez le [guide de validation Microsoft Store](MICROSOFT-STORE.md). L’import, le rendu et l’export ont fait l’objet de vérifications ciblées ; cette préversion n’est pas une version stable.
 
 Le lanceur utilise OpenGL. Depuis 0.9.1.3, le raccourci LightHub vérifie automatiquement les Releases GitHub, préversions comprises, et propose une installation après contrôle SHA-256. Un raccourci permet une vérification manuelle. Le lancement direct de LightHub.exe ne vérifie pas les mises à jour. Installez cette version manuellement une première fois. Le cycle complet de mise à niveau reste à valider. La notification NVIDIA reste non résolue.
 
