@@ -1,3 +1,17 @@
+# LightHub Windows 0.9.1.12 — Mise à jour intégrée
+
+- Recherche automatique des mises à jour au démarrage, avec proposition directement dans LightHub.
+- Recherche manuelle depuis le menu ⋯ ou le raccourci du menu Démarrer.
+- Téléchargement natif avec progression et annulation, sans fenêtre CMD.
+- Vérification de la provenance, de la taille et du SHA-256 avant installation.
+- Après téléchargement, fermeture propre de LightHub ; l’installateur attend la fin du processus. Les opérations en cours ou les problèmes d’enregistrement bloquent cette fermeture.
+- Option « Lancer LightHub » sur la dernière page de l’installateur ; aucun lancement lors d’une installation silencieuse.
+- Raccourcis utilisant un lanceur sans console.
+
+Cette version introduit le nouveau parcours : la mise à niveau depuis une ancienne version utilise encore son ancien système. Les suivantes seront proposées dans l’application.
+
+Préversion Windows x64. Les autres fonctionnalités et limites de la 0.9.1.11 restent inchangées.
+
 # LightHub Windows 0.9.1.11 — Nouveau logo
 
 - Nouveau logo officiel LightHub dans l’interface et l’icône de l’application.
