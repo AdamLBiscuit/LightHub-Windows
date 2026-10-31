@@ -1,3 +1,28 @@
+# LightHub Windows 0.9.1.8
+
+## Nouvelle base LightCraft 0.16.0
+
+- Mise à jour du moteur depuis LightCraft 0.15.0 vers 0.16.0 (révision c4fd54e0).
+- Corrections d’import RAW/JPEG, notamment pour certains panoramas Samsung et fichiers endommagés.
+- Améliorations de la gestion des catalogues et des imports en attente.
+- Les dimensions d’export saisies sont conservées au pixel près.
+- Histogramme repliable fixé au-dessus des réglages pendant le défilement et accès HDR dans l’éditeur.
+- Conservation de l’interface LightHub, de la bibliothèque modernisée, du logo, des photos d’essai et des réglages.
+- Conservation de la saisie numérique corrigée et de la sélection champagne des photos.
+
+## Validation et limites
+
+Compilation Windows et contrôles ciblés des catalogues, albums, quatre photos d’essai, presets et interface réussis. Les 13 tests de saisie numérique passent.
+
+La suite du moteur compte 1 442 tests réussis et un échec documenté : sur une image bruitée de test, un TIFF ZIP peut être légèrement plus volumineux que le même TIFF non compressé (+2,9 %). Le test et l’encodeur concernés sont identiques à ceux de l’amont. La validation globale n’est donc pas entièrement verte.
+
+Préversion Windows x64. Le cycle complet d’installation par auto-update reste à valider. La notification NVIDIA reste non résolue.
+
+## Installation
+
+Lancez LightHub via son raccourci ou utilisez « Rechercher les mises à jour » dans le menu Démarrer. Vous pouvez aussi télécharger **LightHub-Setup-0.9.1.8.exe** ci-dessous.
+
+
 # LightHub Windows 0.9.1.7
 
 ## Bibliothèque modernisée

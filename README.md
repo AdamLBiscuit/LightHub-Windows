@@ -8,7 +8,7 @@ Ce dépôt public distribue uniquement les versions Windows. Les sources de dév
 
 Consultez les [versions Windows](https://github.com/AdamLBiscuit/LightHub-Windows/releases).
 
-La préversion actuelle est **0.9.1.7**, pour Windows x64. Téléchargez `LightHub-Setup-0.9.1.7.exe`, puis suivez l’assistant en français. L’installation se fait pour votre compte utilisateur ; un raccourci Bureau est facultatif.
+La préversion actuelle est **0.9.1.8**, pour Windows x64. Téléchargez `LightHub-Setup-0.9.1.8.exe`, puis suivez l’assistant en français. L’installation se fait pour votre compte utilisateur ; un raccourci Bureau est facultatif.
 
 ## Utilisation
 
