@@ -1,3 +1,15 @@
+# LightHub Windows 0.9.1.11 — Nouveau logo
+
+- Nouveau logo officiel LightHub dans l’interface et l’icône de l’application.
+- Icônes Windows actualisées pour la barre des tâches, les raccourcis et l’installateur, avec plusieurs résolutions pour les différents écrans.
+- Les fichiers PNG et SVG fournis sont conservés sans modification ; l’icône Windows est dérivée du PNG.
+- MobileSAM reste inclus et fonctionne hors ligne, sans compte ni téléchargement de modèle.
+
+Préversion Windows x64. Les fonctionnalités et limites de la version 0.9.1.10 restent inchangées. Windows peut conserver temporairement une ancienne icône en cache sur un raccourci épinglé.
+
+Téléchargez **LightHub-Setup-0.9.1.11.exe** ou utilisez « Rechercher les mises à jour » dans le menu Démarrer.
+
+
 # LightHub Windows 0.9.1.10 — Masques locaux avec MobileSAM
 
 ## Nouveautés
