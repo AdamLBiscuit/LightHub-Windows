@@ -1,1 +1,1 @@
-4ae175cd5deeae51eb21ed25de0a080ea9378b1165fb57be26ac9d6ff7c61e27  LightHub-Setup-0.9.1.1.exe
+757dd4ef4cb1d012a90a74432b3b4c1c3cfaf85737d2bd2fb6963c57ba05d6cf  LightHub-Setup-0.9.1.2.exe
