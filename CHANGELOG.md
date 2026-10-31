@@ -1,3 +1,25 @@
+# LightHub Windows 0.9.1.6
+
+- Réglages réorganisés en huit rubriques, avec navigation fixe et menus déroulants.
+- Menu Catalogue : création, ouverture, gestion des catalogues et création d’albums.
+- Bibliothèque sur l’accueil : albums, dossiers et accès aux photos récentes.
+- Le catalogue choisi est désormais conservé au lancement ; le choix du catalogue au démarrage est respecté.
+- L’ouverture refuse les dossiers qui ne contiennent pas de catalogue, sans remplacer la session courante.
+- Préréglages masqués sur l’accueil, y compris après restauration d’une disposition flottante.
+- Logo LH et identité Windows harmonisés pour l’application et les raccourcis.
+- Dossier d’export par défaut renommé LightHub Exports ; les destinations personnalisées sont conservées.
+- Champs numériques des curseurs contenus dans leur ligne, sans chevaucher la piste.
+- Liens vers getlighthub.com et l’assistance officielle.
+
+Les sauvegardes de catalogues restent manuelles. Cette version ne déplace pas les photos ni les anciens exports.
+
+## Installation
+
+Depuis LightHub 0.9.1.3 ou ultérieur, utilisez le raccourci LightHub ou « Rechercher les mises à jour » dans le menu Démarrer. Vous pouvez aussi installer **LightHub-Setup-0.9.1.6.exe** directement.
+
+Préversion Windows x64. Compilation et tests ciblés des catalogues, photos d’essai et champs numériques réussis (13 tests de saisie). L’installation complète via auto-update reste à valider. La notification NVIDIA reste non résolue.
+
+
 ## LightHub Windows 0.9.1.5
 
 ### Panneaux plus sobres
