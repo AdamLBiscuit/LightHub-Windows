@@ -1,5 +1,7 @@
 # LightHub pour Windows
 
+[Site officiel](https://getlighthub.com/) · [Discord](https://discord.gg/KhTMd2XsTe) · [Instagram](https://www.instagram.com/getlighthub/) · [YouTube](https://www.youtube.com/@GetLightHub)
+
 Atelier de retouche photo non destructive, avec une interface anthracite et champagne, en anglais par défaut avec français disponible et le moteur Rust LightCraft.
 
 Ce dépôt public distribue uniquement les versions Windows. Les sources de développement et la version iOS sont conservées dans un dépôt privé distinct.
@@ -29,7 +31,12 @@ Le lanceur utilise OpenGL. Depuis 0.9.1.12, les mises à jour sont proposées da
 
 ## Communauté
 
-Rejoignez le [Discord LightHub](https://discord.gg/KhTMd2XsTe).
+Retrouvez LightHub sur ses canaux officiels :
+
+- [Site web](https://getlighthub.com/) — présentation de LightHub.
+- [Discord](https://discord.gg/KhTMd2XsTe) — communauté, échanges et retours.
+- [Instagram](https://www.instagram.com/getlighthub/) — actualités et publications.
+- [YouTube](https://www.youtube.com/@GetLightHub) — vidéos LightHub.
 
 ## Retours
 
