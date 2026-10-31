@@ -8,7 +8,7 @@ Ce dépôt public distribue uniquement les versions Windows. Les sources de dév
 
 Consultez les [versions Windows](https://github.com/AdamLBiscuit/LightHub-Windows/releases).
 
-La préversion actuelle est **0.9.1.9**, pour Windows x64. Téléchargez `LightHub-Setup-0.9.1.9.exe`, puis suivez l’assistant en français. L’installation se fait pour votre compte utilisateur ; un raccourci Bureau est facultatif.
+La préversion actuelle est **0.9.1.10**, pour Windows x64. Téléchargez `LightHub-Setup-0.9.1.10.exe`, puis suivez l’assistant en français. L’installation se fait pour votre compte utilisateur ; un raccourci Bureau est facultatif.
 
 ## Utilisation
 
@@ -16,6 +16,7 @@ La préversion actuelle est **0.9.1.9**, pour Windows x64. Téléchargez `LightH
 - Retrouvez les mêmes photos d’essai dans le panneau des presets.
 - Gérez vos catalogues depuis le menu Catalogue et classez vos photos dans les albums et dossiers de la bibliothèque.
 - Double-cliquez sur une image pour ouvrir les réglages.
+- Dans Masques, utilisez Objet pour sélectionner par clic, sans compte ni téléchargement de modèle. Alt-clic exclut une zone.
 - Utilisez Avant/Après pour comparer et Exporter pour produire une copie.
 
 Les données de cette préversion sont conservées dans `%LOCALAPPDATA%\LightHub\Preview`, séparément des fichiers du programme. La désinstallation ne supprime pas ce dossier.

@@ -1,3 +1,26 @@
+# LightHub Windows 0.9.1.10 — Masques locaux avec MobileSAM
+
+## Nouveautés
+
+- Sélection d’objet native avec MobileSAM, entièrement locale : aucun compte, téléchargement de modèle ou service IA à installer.
+- Modèle officiel inclus dans l’installateur, vérifié par SHA-256. Licence Apache 2.0 et provenance fournies avec l’application.
+- Panneau Masques harmonisé : six outils dans une grille régulière, icônes et espacements revus.
+- Cliquez pour inclure une zone, utilisez Alt-clic pour exclure et Inverser pour sélectionner l’arrière-plan.
+- Conservation du pinceau, des dégradés linéaire/radial et des plages de couleur/luminance.
+- Retrait des mentions et du parcours d’installation SAM 3 de l’interface Windows.
+- Retrait des options Décrire/Sujet/Ciel/Arrière-plan automatiques, que ce modèle ne prend pas en charge. Les masques déjà enregistrés restent utilisables.
+
+## Vérifications et limites
+
+Tests ciblés du moteur et de l’interface réussis. Inférence réelle vérifiée sur les quatre photos d’essai, avec inclusion, exclusion, inversion et ajustements. Analyse initiale mesurée à environ 3 à 5 secondes sur le PC de test ; les clics suivants réutilisent l’analyse. La qualité dépend du sujet et peut nécessiter plusieurs points.
+
+Installation silencieuse, réinstallation et désinstallation validées sur un package isolé, avec contrôle du modèle inclus et préservation des données utilisateur. Préversion Windows x64 non signée. Les limites déjà documentées, dont la notification NVIDIA, restent inchangées.
+
+## Installation
+
+Téléchargez **LightHub-Setup-0.9.1.10.exe**, ou lancez « Rechercher les mises à jour » depuis le menu Démarrer. Le raccourci LightHub détecte aussi cette préversion via l’auto-update.
+
+
 # LightHub Windows 0.9.1.9
 
 ## Communauté Discord
