@@ -1,3 +1,18 @@
+# LightHub Windows 0.9.1.9
+
+## Communauté Discord
+
+- Ajout de « Rejoindre le Discord LightHub » dans le menu ⋯, disponible depuis l’accueil et l’éditeur.
+- Ajout du lien dans Réglages → À propos.
+- Les liens Discord de l’application ouvrent désormais la communauté LightHub : https://discord.gg/KhTMd2XsTe.
+
+## Installation
+
+Lancez LightHub via son raccourci ou utilisez « Rechercher les mises à jour » dans le menu Démarrer. L’installateur **LightHub-Setup-0.9.1.9.exe** est également disponible ci-dessous.
+
+Préversion Windows x64, basée sur LightCraft 0.16.0. Les limites de la version 0.9.1.8 restent inchangées, notamment le test de taille TIFF ZIP et la notification NVIDIA.
+
+
 # LightHub Windows 0.9.1.8
 
 ## Nouvelle base LightCraft 0.16.0

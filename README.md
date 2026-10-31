@@ -8,7 +8,7 @@ Ce dépôt public distribue uniquement les versions Windows. Les sources de dév
 
 Consultez les [versions Windows](https://github.com/AdamLBiscuit/LightHub-Windows/releases).
 
-La préversion actuelle est **0.9.1.8**, pour Windows x64. Téléchargez `LightHub-Setup-0.9.1.8.exe`, puis suivez l’assistant en français. L’installation se fait pour votre compte utilisateur ; un raccourci Bureau est facultatif.
+La préversion actuelle est **0.9.1.9**, pour Windows x64. Téléchargez `LightHub-Setup-0.9.1.9.exe`, puis suivez l’assistant en français. L’installation se fait pour votre compte utilisateur ; un raccourci Bureau est facultatif.
 
 ## Utilisation
 
@@ -25,6 +25,10 @@ Les données de cette préversion sont conservées dans `%LOCALAPPDATA%\LightHub
 L’installateur a été compilé, mais son installation complète n’a pas encore été validée. Il n’est pas signé numériquement. L’import, le rendu et l’export ont fait l’objet de vérifications ciblées ; cette préversion n’est pas une version stable.
 
 Le lanceur utilise OpenGL. Depuis 0.9.1.3, le raccourci LightHub vérifie automatiquement les Releases GitHub, préversions comprises, et propose une installation après contrôle SHA-256. Un raccourci permet une vérification manuelle. Le lancement direct de LightHub.exe ne vérifie pas les mises à jour. Installez cette version manuellement une première fois. Le cycle complet de mise à niveau reste à valider. La notification NVIDIA reste non résolue.
+
+## Communauté
+
+Rejoignez le [Discord LightHub](https://discord.gg/KhTMd2XsTe).
 
 ## Retours
 
