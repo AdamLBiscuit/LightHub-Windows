@@ -1,6 +1,6 @@
 # LightHub pour Windows
 
-Atelier de retouche photo non destructive, avec une interface française anthracite et champagne et le moteur Rust LightCraft.
+Atelier de retouche photo non destructive, avec une interface anthracite et champagne, en anglais par défaut avec français disponible et le moteur Rust LightCraft.
 
 Ce dépôt public distribue uniquement les versions Windows. Les sources de développement et la version iOS sont conservées dans un dépôt privé distinct.
 
@@ -8,7 +8,7 @@ Ce dépôt public distribue uniquement les versions Windows. Les sources de dév
 
 Consultez les [versions Windows](https://github.com/AdamLBiscuit/LightHub-Windows/releases).
 
-La préversion actuelle est **0.9.1.12**, pour Windows x64. Téléchargez `LightHub-Setup-0.9.1.12.exe`, puis suivez l’assistant en français. L’installation se fait pour votre compte utilisateur ; un raccourci Bureau est facultatif.
+La préversion actuelle est **0.9.1.13**, pour Windows x64. Téléchargez `LightHub-Setup-0.9.1.13.exe`, puis suivez l’assistant en français. L’installation se fait pour votre compte utilisateur ; un raccourci Bureau est facultatif.
 
 ## Utilisation
 

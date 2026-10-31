@@ -1,3 +1,14 @@
+# LightHub Windows 0.9.1.13 — English by default
+
+- English is now the default language for new installations.
+- Existing language preferences are preserved. French remains available in Settings → General → Language.
+- LightHub’s home screen, catalog menus, settings, editing toolbar and update dialogs now follow the selected language.
+- Language switching and preference persistence verified, with visual checks in English and French.
+
+Préversion Windows x64. Les fonctionnalités et limites de la version 0.9.1.12 restent inchangées.
+
+Téléchargez **LightHub-Setup-0.9.1.13.exe** ou utilisez la recherche de mises à jour dans LightHub.
+
 # LightHub Windows 0.9.1.12 — Mise à jour intégrée
 
 - Recherche automatique des mises à jour au démarrage, avec proposition directement dans LightHub.
