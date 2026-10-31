@@ -1,3 +1,21 @@
+# LightHub Windows 0.9.1.7
+
+## Bibliothèque modernisée
+
+- Navigation plus aérée, avec des lignes plus hautes et des sélections arrondies aux accents champagne.
+- Nom du catalogue mieux mis en valeur, titres de sections plus discrets et séparations allégées.
+- Dossiers, emplacement sur l’ordinateur, dates et mots-clés repliés lors de la première ouverture de la bibliothèque après la mise à jour. Vos choix d’ouverture sont ensuite mémorisés.
+- Sélection des photos soulignée par un contour champagne fin, en remplacement du cadre blanc épais.
+
+Vos photos, albums et catalogues sont conservés.
+
+## Installation
+
+Lancez LightHub via son raccourci ou utilisez « Rechercher les mises à jour » dans le menu Démarrer. Vous pouvez aussi télécharger **LightHub-Setup-0.9.1.7.exe** ci-dessous.
+
+Préversion Windows x64. Le cycle complet d’installation par auto-update reste à valider. La notification NVIDIA reste non résolue.
+
+
 # LightHub Windows 0.9.1.6
 
 - Réglages réorganisés en huit rubriques, avec navigation fixe et menus déroulants.
