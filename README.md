@@ -10,7 +10,7 @@ Ce dépôt public distribue uniquement les versions Windows. Les sources de dév
 
 Consultez les [versions Windows](https://github.com/AdamLBiscuit/LightHub-Windows/releases).
 
-La préversion actuelle est **0.9.1.14**, pour Windows x64. Téléchargez `LightHub-Setup-0.9.1.14.exe`, puis suivez l’assistant en français. L’installation se fait pour votre compte utilisateur ; un raccourci Bureau est facultatif.
+La version actuelle est **1.0.0**, pour Windows x64. Téléchargez `LightHub-Setup-1.0.0.0.exe`, puis suivez l’assistant en français. L’installation se fait pour votre compte utilisateur ; un raccourci Bureau est facultatif.
 
 ## Utilisation
 
@@ -23,11 +23,11 @@ La préversion actuelle est **0.9.1.14**, pour Windows x64. Téléchargez `Light
 - Dans Masques, utilisez Objet pour sélectionner par clic, sans compte ni téléchargement de modèle. Alt-clic exclut une zone.
 - Utilisez Avant/Après pour comparer et Exporter pour produire une copie.
 
-Les données de cette préversion sont conservées dans `%LOCALAPPDATA%\LightHub\Preview`, séparément des fichiers du programme. La désinstallation ne supprime pas ce dossier.
+Les données de LightHub sont conservées dans `%LOCALAPPDATA%\LightHub\Preview`, séparément des fichiers du programme. La désinstallation ne supprime pas ce dossier.
 
-## État de la préversion
+## État et limites
 
-Installation, réinstallation silencieuses et désinstallation ont été validées sur un package de contrôle isolé utilisant les mêmes fichiers du programme. Le build reste non signé. Le binaire signé définitif devra être vérifié dans un environnement Windows propre avant soumission au Microsoft Store. Consultez le [guide de validation Microsoft Store](MICROSOFT-STORE.md). L’import, le rendu et l’export ont fait l’objet de vérifications ciblées ; cette préversion n’est pas une version stable.
+Installation, réinstallation silencieuses et désinstallation ont été validées sur un package de contrôle isolé utilisant les mêmes fichiers du programme. Le build reste non signé. Le binaire signé définitif devra être vérifié dans un environnement Windows propre avant soumission au Microsoft Store. Consultez le [guide de validation Microsoft Store](MICROSOFT-STORE.md). L’import, le rendu et l’export ont fait l’objet de vérifications ciblées ; les limites connues ci-dessous restent applicables.
 
 Le lanceur utilise OpenGL. Depuis 0.9.1.12, les mises à jour sont proposées dans LightHub, préversions comprises, avec progression du téléchargement sans console et vérification SHA-256. LightHub se ferme après téléchargement ; les opérations en cours bloquent la fermeture. L’installateur propose de relancer l’application. La première mise à niveau depuis une ancienne version utilise encore son ancien système. La notification NVIDIA reste non résolue.
 

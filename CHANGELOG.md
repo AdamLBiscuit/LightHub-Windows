@@ -1,3 +1,18 @@
+# LightHub Windows 1.0.0 — Un accueil plus soigné
+
+- Feed repensé avec visuels des publications, cartes arrondies et accents champagne.
+- Titres plus lisibles, date discrète et résumé mieux hiérarchisé.
+- Cartes entièrement cliquables pour ouvrir les articles.
+- Largeur des cartes adaptée au nombre de publications, avec défilement sur les espaces étroits.
+- Chargement des images en arrière-plan ; les articles restent accessibles sans image.
+- Interface disponible en anglais et en français.
+
+Cette publication porte le numéro 1.0.0. Le tag et l’installateur utilisent **1.0.0.0** pour rester compatibles avec l’auto-update des versions précédentes.
+
+Windows x64. Installateur non signé ; les limites connues restent documentées dans le README, notamment la notification NVIDIA. Le numéro 1.0.0 ne modifie pas ces limites.
+
+Téléchargez **LightHub-Setup-1.0.0.0.exe** ou utilisez la recherche de mises à jour dans LightHub.
+
 # LightHub Windows 0.9.1.14 — Actualités dans l’application
 
 - Intégration du feed officiel getlighthub.com à la page d’accueil.
