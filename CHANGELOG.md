@@ -1,3 +1,16 @@
+# LightHub Windows 1.0.3 — RAW et débruitage local
+
+- Correction du rendu trop sombre de certains DNG / Apple ProRAW : le rendu tonal intégré est activé par défaut pour les nouvelles importations DNG.
+- Option de rendu tonal clarifiée dans Développement. Pour un DNG déjà importé, activez « Camera tonal rendering (recommended) » ; les réglages existants sont conservés.
+- Débruitage IA PMRID intégré et sélectionné automatiquement, entièrement local, sans compte ni téléchargement supplémentaire.
+- Modèle et poids officiels Apache-2.0 inclus avec leur licence et leurs crédits.
+
+Le débruitage IA prend en charge les RAW Bayer. Les JPEG, X-Trans et DNG déjà dématricés / Apple ProRAW ne sont pas pris en charge par ce modèle. Traitement sur processeur : environ trois minutes sur le RAW Sony testé, selon la machine et la résolution. Le résultat est mis en cache.
+
+Validation : comparaison avec le modèle officiel, tests de bruit et de luminosité, export d’un RAW Sony et contrôle du rendu d’un DNG réel. La qualité reste à évaluer sur davantage de boîtiers.
+
+Windows x64. Version technique 1.0.3.0, compatible avec la mise à jour intégrée. Installateur non signé.
+
 # LightHub Windows 1.0.2 — Optiques et signature
 
 - Vignette simplifiée : suppression des trois modes de la barre, réglages existants conservés.
