@@ -10,13 +10,15 @@ Ce dépôt public distribue uniquement les versions Windows. Les sources de dév
 
 Consultez les [versions Windows](https://github.com/AdamLBiscuit/LightHub-Windows/releases).
 
-La version actuelle est **1.0.3**, pour Windows x64. Téléchargez `LightHub-Setup-1.0.3.0.exe`, puis suivez l’assistant en français. L’installation se fait pour votre compte utilisateur ; un raccourci Bureau est facultatif.
+La version actuelle est **1.1.0**, pour Windows x64. Téléchargez `LightHub-Setup-1.1.0.0.exe`, puis suivez l’assistant en français. L’installation se fait pour votre compte utilisateur ; un raccourci Bureau est facultatif.
 
 ## Utilisation
 
 - Consultez les dernières actualités du [feed officiel](https://getlighthub.com/feed) directement sur l’accueil.
 
-- Choisissez une des quatre photos d’essai intégrées ou importez une photo depuis le nouvel accueil.
+- Retrouvez la bibliothèque, les retouches récentes, les photos d’essai et les actualités dans des onglets séparés.
+- Gérez et modifiez vos presets sur une photo d’essai sans modifier une photo du catalogue.
+- Créez des compositions Instagram avec pages, photos, textes et formes, puis exportez en PNG/JPEG. Les brouillons Apple et iCloud ne sont pas synchronisés avec Windows.
 - Retrouvez les mêmes photos d’essai dans le panneau des presets.
 - Gérez vos catalogues depuis le menu Catalogue et classez vos photos dans les albums et dossiers de la bibliothèque.
 - Double-cliquez sur une image pour ouvrir les réglages.
@@ -29,7 +31,7 @@ Les données de LightHub sont conservées dans `%LOCALAPPDATA%\LightHub\Preview`
 
 Installation, réinstallation silencieuses et désinstallation ont été validées sur un package de contrôle isolé utilisant les mêmes fichiers du programme. Le build reste non signé. Le binaire signé définitif devra être vérifié dans un environnement Windows propre avant soumission au Microsoft Store. Consultez le [guide de validation Microsoft Store](MICROSOFT-STORE.md). L’import, le rendu et l’export ont fait l’objet de vérifications ciblées ; les limites connues ci-dessous restent applicables.
 
-Le lanceur utilise OpenGL. Depuis 0.9.1.12, les mises à jour sont proposées dans LightHub, préversions comprises, avec progression du téléchargement sans console et vérification SHA-256. LightHub se ferme après téléchargement ; les opérations en cours bloquent la fermeture. L’installateur propose de relancer l’application. La première mise à niveau depuis une ancienne version utilise encore son ancien système. La notification NVIDIA reste non résolue.
+Le lanceur utilise désormais DirectX 12 avec repli automatique si nécessaire. La protection contre le clignotement G-SYNC/FreeSync est activée par défaut sur les nouvelles configurations Windows ; les préférences explicites existantes sont conservées. Depuis 0.9.1.12, les mises à jour sont proposées dans LightHub, préversions comprises, avec progression du téléchargement sans console et vérification SHA-256. LightHub se ferme après téléchargement ; les opérations en cours bloquent la fermeture. L’installateur propose de relancer l’application. La première mise à niveau depuis une ancienne version utilise encore son ancien système. La notification NVIDIA reste non résolue.
 
 ## Communauté
 

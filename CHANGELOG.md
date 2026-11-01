@@ -1,3 +1,20 @@
+# LightHub Windows 1.1.0 — Nouvel atelier
+
+- Interface rapprochée des versions iOS et macOS : graphite, champagne, en-tête compact et réglages allégés.
+- Bibliothèque recentrée sur vos photos, avec accès séparé aux retouches récentes, exemples et actualités.
+- Gestionnaire de préréglages indépendant de la retouche.
+- Réglage simultané de la teinte et de la saturation par canal.
+- Nouvel atelier de compositions : formats Instagram, pages, textes, photos, formes, modèles et brouillons sauvegardés.
+- Export des compositions en PNG/JPEG avec leur légende, sans connexion à Instagram.
+- Compression ZIP des TIFF améliorée pour réduire la taille des exports 16 bits.
+- Erreurs de modèle de sélection absent correctement signalées.
+- Consultation hors ligne des dernières actualités enregistrées.
+- Protection contre le clignotement G-SYNC/FreeSync activée par défaut sur les nouvelles configurations Windows DX12, sans modification des réglages NVIDIA globaux.
+
+Les catalogues et brouillons Apple ne sont pas synchronisés avec Windows.
+
+Windows x64. Version technique 1.1.0.0, compatible avec la mise à jour intégrée. Installateur non signé.
+
 # LightHub Windows 1.0.3 — RAW et débruitage local
 
 - Correction du rendu trop sombre de certains DNG / Apple ProRAW : le rendu tonal intégré est activé par défaut pour les nouvelles importations DNG.
