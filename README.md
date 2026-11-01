@@ -10,7 +10,7 @@ Ce dépôt public distribue uniquement les versions Windows. Les sources de dév
 
 Consultez les [versions Windows](https://github.com/AdamLBiscuit/LightHub-Windows/releases).
 
-La version actuelle est **1.0.1**, pour Windows x64. Téléchargez `LightHub-Setup-1.0.1.0.exe`, puis suivez l’assistant en français. L’installation se fait pour votre compte utilisateur ; un raccourci Bureau est facultatif.
+La version actuelle est **1.0.2**, pour Windows x64. Téléchargez `LightHub-Setup-1.0.2.0.exe`, puis suivez l’assistant en français. L’installation se fait pour votre compte utilisateur ; un raccourci Bureau est facultatif.
 
 ## Utilisation
 
@@ -47,3 +47,5 @@ Utilisez les [issues](https://github.com/AdamLBiscuit/LightHub-Windows/issues) p
 ## Crédits et licences
 
 LightHub utilise le moteur [LightCraft](https://github.com/storytold/lightcraft). Les licences et avis des composants distribués figurent dans `licences/` et dans l’installateur. Le nom et le logo LightHub ne sont pas couverts par les licences générales du code. Ce dépôt de distribution ne publie pas les sources privées.
+
+Depuis 1.0.2, les profils de correction des objectifs compatibles sont inclus pour les RAW (données Lensfun CC BY-SA 3.0, crédits et licence inclus). Le filigrane texte ou logo est disponible à l’export. Le débruitage IA sans modèle compatible reste indisponible.

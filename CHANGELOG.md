@@ -1,3 +1,16 @@
+# LightHub Windows 1.0.2 — Optiques et signature
+
+- Vignette simplifiée : suppression des trois modes de la barre, réglages existants conservés.
+- Section Signature et filigrane dans l’export : texte ou logo, placement, taille et opacité.
+- Base de calibration Lensfun intégrée pour les RAW compatibles, utilisable hors ligne.
+- Recherche de profil accessible pour les RAW déjà présents dans le catalogue.
+- Correction automatique désactivée lorsqu’aucun profil compatible n’est disponible ; corrections manuelles toujours accessibles.
+- Message plus clair lorsque le modèle de débruitage IA est absent. Le débruitage IA intégré reste indisponible sans modèle compatible ; cette version ne prétend pas le réparer.
+
+Les profils ne couvrent pas tous les objectifs et ne sont pas appliqués automatiquement aux JPEG. Données Lensfun CC BY-SA 3.0, licence et crédits inclus. Aucun code Lensfun ajouté.
+
+Windows x64. Version technique 1.0.2.0. Installateur non signé ; autres limites de la 1.0.1 inchangées.
+
 # LightHub Windows 1.0.1 — Noir et champagne
 
 - Palette plus profonde et plus chaude, contours champagne et curseurs légèrement en relief.
