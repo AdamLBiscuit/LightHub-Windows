@@ -1,3 +1,16 @@
+# LightHub Windows 0.9.1.14 — Actualités dans l’application
+
+- Intégration du feed officiel getlighthub.com à la page d’accueil.
+- Affichage des trois dernières publications : date, titre et résumé.
+- Ouverture des articles complets et du feed dans le navigateur.
+- Chargement en arrière-plan et actualisation périodique sans bloquer l’interface.
+- Interface adaptée à la langue choisie, anglais ou français.
+- Message de disponibilité lorsque le site est inaccessible.
+
+Chargement réel et rendu visuel vérifiés dans LightHub. Préversion Windows x64 ; les autres fonctionnalités et limites de la version 0.9.1.13 restent inchangées.
+
+Téléchargez **LightHub-Setup-0.9.1.14.exe** ou utilisez la recherche de mises à jour dans LightHub.
+
 # LightHub Windows 0.9.1.13 — English by default
 
 - English is now the default language for new installations.
