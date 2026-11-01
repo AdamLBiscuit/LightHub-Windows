@@ -1,3 +1,14 @@
+# LightHub Windows 1.0.1 — Noir et champagne
+
+- Palette plus profonde et plus chaude, contours champagne et curseurs légèrement en relief.
+- Accueil personnalisé avec les quatre dernières photos retouchées du catalogue.
+- Aperçus des retouches et accès direct pour reprendre une édition.
+- Les quatre photos d’essai restent disponibles en l’absence de retouches récentes.
+- Tri et exclusions vérifiés ; rendu de l’accueil contrôlé dans l’application.
+
+Windows x64. Version technique 1.0.1.0, compatible avec l’auto-update. Les limites connues de la 1.0.0 restent applicables.
+
+
 # LightHub Windows 1.0.0 — Un accueil plus soigné
 
 - Feed repensé avec visuels des publications, cartes arrondies et accents champagne.
