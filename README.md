@@ -10,7 +10,7 @@ Ce dépôt public distribue uniquement les versions Windows. Les sources de dév
 
 Consultez les [versions Windows](https://github.com/AdamLBiscuit/LightHub-Windows/releases).
 
-La version actuelle est **1.1.0**, pour Windows x64. Téléchargez `LightHub-Setup-1.1.0.0.exe`, puis suivez l’assistant en français. L’installation se fait pour votre compte utilisateur ; un raccourci Bureau est facultatif.
+La version actuelle est **1.1.0**, pour Windows x64. Téléchargez `LightHub-Setup-1.1.1.0.exe`, puis suivez l’assistant en français. L’installation se fait pour votre compte utilisateur ; un raccourci Bureau est facultatif.
 
 ## Utilisation
 

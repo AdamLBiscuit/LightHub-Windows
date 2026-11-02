@@ -1,3 +1,16 @@
+# LightHub Windows 1.1.1 — Stabilité d’affichage
+
+- La protection anti-clignotement reste active quand le moteur graphique est choisi explicitement.
+- Rafraîchissement continu synchronisé à l’écran lorsque LightHub est au premier plan, pour éviter les variations de cadence sur les écrans G-SYNC/FreeSync.
+- Retour au rafraîchissement à la demande lorsque la fenêtre est réduite ou en arrière-plan.
+- Aucun changement des réglages NVIDIA globaux ni de l’overlay des jeux.
+
+Cette protection peut augmenter l’utilisation du processeur graphique tant que la fenêtre est active. Le résultat sur le scintillement de la dalle doit être confirmé sur votre écran.
+
+Windows x64. Version technique 1.1.1.0, mise à jour intégrée. Installateur non signé.
+
+---
+
 # LightHub Windows 1.1.0 — Nouvel atelier
 
 - Interface rapprochée des versions iOS et macOS : graphite, champagne, en-tête compact et réglages allégés.
