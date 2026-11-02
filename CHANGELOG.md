@@ -1,3 +1,16 @@
+# LightHub Windows 1.1.2 — Affichage sur NVIDIA
+
+- Nouveau chemin de présentation de la fenêtre sur NVIDIA/DX12 pour traiter le scintillement autour de la photo lors des mouvements de souris.
+- La fenêtre utilise le rendu logiciel Windows ; le traitement des photos conserve son accélération graphique.
+- Suppression du rafraîchissement continu introduit en 1.1.1 : la fenêtre se redessine à la demande.
+- Aucun changement des réglages NVIDIA globaux ni de l’overlay des jeux.
+
+Le rendu logiciel de la fenêtre peut coûter davantage de temps processeur sur les grands écrans. Le résultat sur le scintillement physique doit être confirmé sur votre écran.
+
+Windows x64. Version technique 1.1.2.0, mise à jour intégrée. Installateur non signé.
+
+---
+
 # LightHub Windows 1.1.1 — Stabilité d’affichage
 
 - La protection anti-clignotement reste active quand le moteur graphique est choisi explicitement.
