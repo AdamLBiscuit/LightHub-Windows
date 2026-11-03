@@ -3,3 +3,12 @@
 *.pdb
 .DS_Store
 Thumbs.db
+
+# Installers belong in GitHub Releases, not in Git history
+LightHub-Setup-*.exe
+LightHub-*.zip
+LightHub-*.msix
+LightHub-*.msixbundle
+*.log
+Thumbs.db
+desktop.ini

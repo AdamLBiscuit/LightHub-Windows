@@ -4,7 +4,7 @@
 
 Atelier de retouche photo non destructive, avec une interface anthracite et champagne, en anglais par défaut avec français disponible et le moteur Rust LightCraft.
 
-Ce dépôt public distribue uniquement les versions Windows. Les sources de développement et la version iOS sont conservées dans un dépôt privé distinct.
+Ce dépôt public distribue uniquement les versions Windows. Le code Windows, iOS, iPadOS et macOS est regroupé dans le dépôt privé LightHub. Aucun code privé ni catalogue utilisateur n’est publié ici.
 
 ## Télécharger
 
